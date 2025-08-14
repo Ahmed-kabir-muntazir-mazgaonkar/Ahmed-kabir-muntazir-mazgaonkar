@@ -1,24 +1,109 @@
-<h1 align="center">Hi 👋, I'm kabir mazgaonkar</h1>
-<h3 align="center">Aspiring Data Scientist | Python, SQL, Power BI, Machine Learning | Building Data-Driven Solutions</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-kabir-muntazir-mazgaonkar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-kabir-muntazir-mazgaonkar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-kabir-muntazir-mazgaonkar" alt="ahmed-kabir-muntazir-mazgaonkar" /></a> </p>
-
-- 🔭 I’m currently working on [Sales Data Analytics](https://github.com/Ahmed-kabir-muntazir-mazgaonkar/sales-data-analytics)
-
-- 🌱 I’m currently learning **Data scientist**
-
-- 📫 How to reach me **ahmedkabirmazgaonkar@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://in.linkedin.com/in/ahmedkabirmazgaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/ahmedkabirmazgaonkar" height="30" width="40" /></a>
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Kabir+Mazgaonkar;Data+Scientist+%7C+ML+++DL+++NLP+++Generative+AI;Pythonist+who+loves+clean+data+%26+clear+insights" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:ahmedkabirmazgaonkar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ahmedkabirmazgaonkar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-kabir-muntazir-mazgaonkar&style=for-the-badge&label=Profile+Views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-kabir-muntazir-mazgaonkar&show_icons=true&locale=en&layout=compact" alt="ahmed-kabir-muntazir-mazgaonkar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-kabir-muntazir-mazgaonkar&show_icons=true&locale=en" alt="ahmed-kabir-muntazir-mazgaonkar" /></p>
+### 🚀 About Me
+- 🧠 **Data Scientist** with expertise in **Python, ML, DL, NLP, Generative AI**
+- 📊 Skilled in **Excel, Power BI, Tableau, SQL** for analytics and reporting
+- 🧰 Hands-on with **NumPy, Pandas, Matplotlib, Seaborn, scikit-learn**
+- 🔭 Currently working on **Sales Data Analytics** & **Expense Tracker (Python)**
+- 📫 Reach me at: **ahmedkabirmazgaonkar@gmail.com**
+
+---
+
+### 📊 Key Business KPIs — Sales Data Analytics
+
+| Metric               | Value      |
+|----------------------|------------|
+| 💰 **Total Revenue**     | **$1.2B**  |
+| 📈 **Total Profit**      | **$461.8M** |
+| 📊 **Profit Margin**     | **37.36%** |
+| 📦 **Total Orders**      | **64K**    |
+| 🛒 **Revenue per Order** | **$19.3K** |
+
+<p align="center">
+  <img src="assets/sales_dashboard.png" alt="Sales Dashboard Preview" width="800"/>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Libraries**
+  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c)
+![Seaborn](https://img.shields.io/badge/Seaborn-4EABCF)
+
+**ML / AI**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00)
+![NLP](https://img.shields.io/badge/NLP-8E44AD)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-1abc9c)
+
+**BI / Visualization**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+
+---
+
+### 📂 Featured Projects
+
+<details>
+<summary><b>📈 Sales Data Analytics</b> — EDA + Power BI Dashboard</summary>
+
+- Cleaned & transformed regional sales data  
+- Performed **EDA** to find seasonality and profit trends  
+- Built **Power BI** dashboard for KPIs and insights  
+
+</details>
+
+<details>
+<summary><b>💸 Expense Tracker (Python)</b></summary>
+
+- Track income & expenses with category-based summaries  
+- Generate monthly reports & visualize spending patterns  
+
+</details>
+
+<details>
+<summary><b>🎮 Perfect Game</b> — Python + Pygame</summary>
+
+- Arcade shooter game with modular design  
+- Implemented collision detection & scoring system  
+
+</details>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed-kabir-muntazir-mazgaonkar&show_icons=true&theme=transparent&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-kabir-muntazir-mazgaonkar&layout=compact&theme=transparent" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Ahmed-kabir-muntazir-mazgaonkar&theme=transparent" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
